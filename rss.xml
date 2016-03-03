@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[James L Stockman Income Tax Service]]></title>
         <description><![CDATA[James L Stockman Income Tax Service]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/james-l-stockman-income-tax-service/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 13:59:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 14:12:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/james-l-stockman-income-tax-service/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/598294be-7bdd-4935-b629-fe6e4ab36832.JPG">]]></description>
-            <link>undefined33800105-2f96-4413-b750-c4f44bb38e54/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/306b855b-5e98-4e8d-8ada-c9051ba9fdbc.JPG">]]></description>
+            <link>https://thegrid.ai/james-l-stockman-income-tax-service/33800105-2f96-4413-b750-c4f44bb38e54/index.html</link>
             <guid isPermaLink="false">33800105-2f96-4413-b750-c4f44bb38e54</guid>
-            <pubDate>Thu, 03 Mar 2016 13:59:22 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 14:11:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
